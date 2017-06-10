@@ -1,0 +1,25 @@
+/* globals */
+
+body {
+  font-family: 'Source Code Pro', monospace;  
+  -webkit-font-smoothing: antialiased;
+}
+
+/* text */
+
+.heading {
+  color: #333;
+}
+
+.content {
+  color: #222;
+}
+
+/* positioning */
+
+.main-wrapper {
+  box-sizing: border-box;
+  margin: 0 200px;
+  max-width: 600px;
+  padding: 60px 30px 100px 30px;
+}
