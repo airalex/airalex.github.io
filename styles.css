@@ -5,6 +5,16 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+a {
+  color: #0074D9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #0074D9;
+}
+
 /* text */
 
 .heading {
