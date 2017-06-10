@@ -34,7 +34,7 @@ li {
 }
 
 section {
-  margin: 2rem 0;
+  margin: 2rem;
 }
 
 .heading {
@@ -50,4 +50,6 @@ section {
 
 .main-wrapper {
   box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 800px;
 }
