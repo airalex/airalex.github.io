@@ -1,11 +1,7 @@
 /* globals */
 
-html {
-  /*font-size: 100%;*/
-}
-
 body {
-  font-family: 'Source Code Pro', monospace;  
+  font-family: monospace, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -38,13 +34,14 @@ section {
 }
 
 .heading {
-  color: #333;
+  color: #222;
   font-size: 2rem;
+  font-weight: normal;
   margin: 0 0 0 0.7rem;
 }
 
 .content {
-  color: #222;
+  color: #444;
   font-size: 1.0rem;
 }
 
